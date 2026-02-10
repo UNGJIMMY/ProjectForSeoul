@@ -11,6 +11,6 @@
 Research - Set Goal – Structure – Detail – QA – Open – Review
 
 **Duration**<br>
-1차(Research~Set Goal): 2026-02-08(Sun) ~ 2026-02-17(Tue)
-2차(Structure~Review): 
+1차(Research ~ Set Goal): 2026-02-08(Sun) ~ 2026-02-17(Tue)<br>
+2차(Structure ~ Review): 
 
