@@ -1,16 +1,16 @@
-# 프로젝트: 서울 대중교통 혼잡으로 인한 이용 불편함 해소
+# 프로젝트: 수도권 대중교통 혼잡으로 인한 이용 불편함 해소
 
 
 **Goal**<br>
 	sd
 
 **Why**<br>
-서울 대중교통 혼잡으로 인한 이동수단으로서의 불편함(정시성 확보의 어려움, 미흡한 승차 환경)이 존재하기 때문이다.
+수도권 대중교통 혼잡으로 인한 이동수단으로서의 불편함(정시성 확보의 어려움, 미흡한 승차 환경)이 존재하기 때문이다.
 
 **Process**<br>
 Research - Set Goal – Structure – Detail – QA – Open – Review
 
 **Duration**<br>
 1차(Research ~ Set Goal): 2026-02-08(Sun) ~ 2026-02-17(Tue)<br>
-2차(Structure ~ Review): 
+2차(Structure ~ Review): 2026-02-20(Fri) ~ 2026
 
